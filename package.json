@@ -1,0 +1,14 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Node Sample setup",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AJAY",
+  "license": "ISC"
+}
